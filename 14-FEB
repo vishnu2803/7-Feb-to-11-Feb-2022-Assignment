@@ -41,7 +41,7 @@ public class FEB14{
         }
     }
 
-    private static int seLargest() {
+    private static void secLargest() {
         //Java Program to find Second Largest Number in an Array
 
       int integers[] = {12,34,55,3,4,66};
